@@ -1,9 +1,4 @@
-# Quantum Computing Club @ IIT Indore
-
-Welcome to the official GitHub of the **Quantum Computing Club** at [IIT Indore](https://www.iiti.ac.in/). We are a student-driven initiative dedicated to building a strong foundation in quantum computation and information theory — both in theory and in practice.
-
-> _“Nature isn't classical, dammit, and if you want to make a simulation of nature, you'd better make it quantum mechanical.”_  
-> — Richard Feynman
+Welcome to the official GitHub of the **Quantum Computing Club** at IIT Indore. We are a student-led community advancing quantum computation and information theory, bridging the gap between fundamental principles and real-world applications. Our mission is to foster an inclusive and collaborative space where beginners, enthusiasts, and researchers come together to learn, experiment, and build: contributing to the evolving landscape of quantum technologies.
 
 ## 🚀 What We Do
 
@@ -16,22 +11,21 @@ We engage in a broad spectrum of quantum computing activities, including:
 
 ## 🧑‍🔬 Who Can Join?
 
-Everyone is welcome, regardless of prior experience. Whether you're:
+Whether you’re:
 
-- a **complete beginner** interested in quantum mechanics or computing,
-- an **MTech / MSc student** looking to apply your background to quantum systems,
-- or a **research enthusiast** aiming to collaborate on real-world problems,
+- a `curious beginner` eager to explore quantum mechanics and computing,  
+- an `experienced engineer` seeking to apply your expertise to quantum systems,  
+- a `research enthusiast` ready to tackle real-world challenges,  
+- or a creative mind — `designer`, `developer`, `writer`, and beyond  
 
-— there's a place for you in the club.
+— there’s a place for you in our club.
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
-We work with:
-
-- **Quantum Frameworks**: Qiskit, Cirq, PennyLane, Braket, Q#
-- **Classical Tools**: Python, NumPy, Matplotlib, Jupyter
-- **Platforms**: IBM Quantum, Xanadu's Strawberry Fields, Rigetti Forest, QuTiP, etc.
-- **Version Control**: Git, GitHub
+![IBM Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-%234B8BBE.svg?style=for-the-badge&logo=Xanadu&logoColor=white)
+![Q#](https://img.shields.io/badge/Q%23-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Braket](https://img.shields.io/badge/Amazon%20Braket-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## 💬 How to Get Involved
 
@@ -43,12 +37,24 @@ We work with:
 
 You may contact the Club Directly or the Executive Team. We're always happy to meet and work with people interested in Quantum Computing
 
-[\[Github\]](https://github.com/qc-iiti) [\[e-mail\]](mailto:quantum@iiti.ac.in)
+- Email: [quantum@iiti.ac.in](mailto:quantum@iiti.ac.in)
+
 
 ### Executive Team (2025)
 **President**
-- Arham Aneeq
+
+*Arham Aneeq*
+- **T:** +91 9136607511
+- **E:** [mems240005009@iiti.ac.in](mailto:mems240005009@iiti.ac.in)
+- **Github:** [@arhamaneeq](https://github.com/arhamaneeq)
+- **LinkedIn:** [linkedin.com/in/arhamaneeq](https://www.linkedin.com/in/arhamaneeq/)
 
 **Vice Presidents**
-- Aarush Bindod
-- V Hemal 
+
+*Aarush Bindod*
+- **Email:** [ep240051001@iiti.ac.in](mailto:ep240051001@iiti.ac.in)
+- **GitHub:** [@metamyteee](https://github.com/metamyteee)
+
+*V Hemal*
+- **Email:** [ep240051020@iiti.ac.in](mailto:ep240051020@iiti.ac.in)
+- **GitHub:** [@Hemal2510](https://github.com/Hemal2510)
