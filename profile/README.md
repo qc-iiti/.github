@@ -43,18 +43,30 @@ You may contact the Club Directly or the Executive Team. We're always happy to m
 ### Executive Team (2025)
 **President**
 
-*Arham Aneeq*
-- **T:** +91 9136607511
-- **E:** [mems240005009@iiti.ac.in](mailto:mems240005009@iiti.ac.in)
-- **Github:** [@arhamaneeq](https://github.com/arhamaneeq)
-- **LinkedIn:** [linkedin.com/in/arhamaneeq](https://www.linkedin.com/in/arhamaneeq/)
+*V Hemal*
+- **T:** +91 8870547675
+- **E:** [ep240051020@iiti.ac.in](mailto:ep240051020@iiti.ac.in)
+- **Github:** [@Hemal2510](https://github.com/Hemal2510)
+- **LinkedIn:** [linkedin.com/in/hemal-vinod/](https://www.linkedin.com/in/hemal-vinod/)
 
-**Vice Presidents**
+**Domain Heads**
 
 *Aarush Bindod*
+-**Software Domain Head**
 - **Email:** [ep240051001@iiti.ac.in](mailto:ep240051001@iiti.ac.in)
 - **GitHub:** [@metamyteee](https://github.com/metamyteee)
 
-*V Hemal*
-- **Email:** [ep240051020@iiti.ac.in](mailto:ep240051020@iiti.ac.in)
-- **GitHub:** [@Hemal2510](https://github.com/Hemal2510)
+*Arham Aneeq*
+-**Devices Domain Head**
+- **Email:** [mems240005009@iiti.ac.in](mailto:mems240005009@iiti.ac.in)
+- **GitHub:** [@arhamaneeq](https://github.com/arhamaneeq)
+
+*Abhiroop Gohar*
+- **Algorithm Domain Head**
+- **Email:** [ep240051002@iiti.ac.in](mailto:ep240051002@iiti.ac.in)
+-  **GitHub:** [@stark-069](https://github.com/stark-069)
+
+*Samvaadi Dadhi*
+- **Content Team Head**
+- **Email:** [ep240051019@iiti.ac.in](mailto:ep240051019@iiti.ac.in)
+- **GitHub:** [@samvaadi](https://github.com/samvaadi)
