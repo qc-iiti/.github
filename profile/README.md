@@ -62,11 +62,11 @@ You may contact the Club Directly or the Executive Team. We're always happy to m
 - **GitHub:** [@arhamaneeq](https://github.com/arhamaneeq)
 
 *Abhiroop Gohar*
-- **Algorithm Domain Head**
+-**Algorithm Domain Head**
 - **Email:** [ep240051002@iiti.ac.in](mailto:ep240051002@iiti.ac.in)
 -  **GitHub:** [@stark-069](https://github.com/stark-069)
 
 *Samvaadi Dadhi*
-- **Content Team Head**
+-**Content Team Head**
 - **Email:** [ep240051019@iiti.ac.in](mailto:ep240051019@iiti.ac.in)
 - **GitHub:** [@samvaadi](https://github.com/samvaadi)
